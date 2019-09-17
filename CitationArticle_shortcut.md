@@ -2,7 +2,7 @@
 
 The Shortcut uses the Crossref and Datacite APIs to retrieve, based on search keywords:
 
-* a fully formatted citation (in a designated [CSL citation style](https://github.com/citation-style-language/styles))
+* a fully formatted article citation (in a designated [CSL citation style](https://github.com/citation-style-language/styles))
 * a BibTex record 
 * a DOI
 
