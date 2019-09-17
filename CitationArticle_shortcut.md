@@ -1,4 +1,4 @@
-Version 1.0 | 2019-09-2017
+## Version 1.0 | 2019-09-2017
 
 Open the following link on an iOS device to import the Shortcut:
 
