@@ -8,4 +8,4 @@ The Shortcut uses the Crossref and Datacite APIs to retrieve, based on search ke
 
 Open the following link on an iOS device to import the Shortcut:
 
-[https://www.icloud.com/shortcuts/275ec706d76b4c029d67c2eba7de3cf1](https://www.icloud.com/shortcuts/275ec706d76b4c029d67c2eba7de3cf1)
+[https://www.icloud.com/shortcuts/296639f225274b438e8d100e87b8b125](https://www.icloud.com/shortcuts/296639f225274b438e8d100e87b8b125)
