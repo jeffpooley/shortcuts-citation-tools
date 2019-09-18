@@ -1,4 +1,4 @@
-## Version 1.0 | 2019-09-2017
+## Version 1.01 | 2019-09-2017
 
 The Shortcut uses the Crossref and Datacite APIs to retrieve, based on search keywords:
 
