@@ -1,4 +1,4 @@
-## Version 1.02 | Updated 2019-11-02
+## CitationArticle Version 1.02 | Updated 2019-11-02
 
 The Shortcut uses the Crossref and Datacite APIs to retrieve, based on search keywords:
 
