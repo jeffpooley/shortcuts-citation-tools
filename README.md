@@ -6,8 +6,8 @@ The Shortcuts are markdown files containing iCloud URLs, since Apple (after iOS 
 
 ## Shortcuts
 
-* [CitationArticle]()
-* [CitationBook]()
+* [CitationArticle](https://github.com/jeffpooley/shortcuts-citation-tools/blob/master/CitationArticle_shortcut.md)
+* [CitationBook](https://github.com/jeffpooley/shortcuts-citation-tools/blob/master/CitationBook_shortcut.md)
 
 ## Contact
 
