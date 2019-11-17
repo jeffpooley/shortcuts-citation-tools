@@ -9,3 +9,6 @@ The Shortcut uses the Crossref and Datacite APIs to retrieve, based on search ke
 Open the following link on an iOS device to import the Shortcut:
 
 [https://www.icloud.com/shortcuts/6759b4cd5c324881a650e74b7fbffabd](https://www.icloud.com/shortcuts/6759b4cd5c324881a650e74b7fbffabd)
+
+
+https://zenodo.org/badge/DOI/10.5281/zenodo.3526574.svg
