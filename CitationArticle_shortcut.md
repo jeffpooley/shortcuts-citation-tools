@@ -10,4 +10,4 @@ Open the following link on an iOS device to import the Shortcut:
 
 [https://www.icloud.com/shortcuts/d95762f1620a4c63a8af843b4c8bfb4c](https://www.icloud.com/shortcuts/d95762f1620a4c63a8af843b4c8bfb4c)
 
-[https://zenodo.org/badge/DOI/10.5281/zenodo.3526574.svg](https://zenodo.org/badge/DOI/10.5281/zenodo.3526574.svg)
+The Shorcut is also deposited on [Zenodo](https://zenodo.org/record/3555602#.XgvrWi9OmfA)
