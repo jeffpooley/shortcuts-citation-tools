@@ -9,4 +9,4 @@ Open the following link on an iOS device to import the Shortcut:
 
 [https://www.icloud.com/shortcuts/f2a637092cda4d13ae84db60e9f39f19](https://www.icloud.com/shortcuts/f2a637092cda4d13ae84db60e9f39f19)
 
-The Shorcut is also deposited on [Zenodo](https://zenodo.org/record/3555602#.XgvrWi9OmfA)
+The Shorcut is also deposited on [Zenodo](https://zenodo.org/record/3555602#.XgvrWi9OmfA).
