@@ -10,7 +10,7 @@ They are listed on [RoutineHub](https://routinehub.co) and deposited on [Zenodo]
 
 * [CitationArticle](https://github.com/jeffpooley/shortcuts-citation-tools/blob/master/CitationArticle_shortcut.md)
 * [CitationBook](https://github.com/jeffpooley/shortcuts-citation-tools/blob/master/CitationBook_shortcut.md)
-* [CitationDOI]()
+* [CitationDOI](https://github.com/jeffpooley/shortcuts-citation-tools/blob/master/CitationDOI_shortcut.md)
 
 ## Contact
 
