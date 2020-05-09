@@ -1,5 +1,9 @@
 ## Version 1.0 | released 2019-12-31
 
+### NOTE: DEPRECATED DUE TO CHANGES IN THE DATACITE API
+
+*This Shortcut is no longer updated and may break or be broken*
+
 The Shortcut uses the Datacite APIs to retrieve, based on a DOI:
 
 * a fully formatted article citation (in a designated [CSL citation style](https://github.com/citation-style-language/styles))

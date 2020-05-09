@@ -1,5 +1,9 @@
 ## CitationBook Version 1.0 | updated 2019-11-02
 
+### NOTE: DEPRECATED DUE TO CHANGES IN THE DATACITE API
+
+*This Shortcut is no longer updated and may break or be broken*
+
 The Shortcut uses the ISBN Search, Open Library API, and EasyBib API to retrieve, based on search keywords:
 
 * a fully formatted book citation (in a designated citation style)

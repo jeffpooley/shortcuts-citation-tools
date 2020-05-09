@@ -1,5 +1,9 @@
 ## CitationArticle Version 1.02 | Updated 2019-11-02
 
+### NOTE: DEPRECATED DUE TO CHANGES IN THE DATACITE API
+
+*This Shortcut is no longer updated and may break or be broken*
+
 The Shortcut uses the Crossref and Datacite APIs to retrieve, based on search keywords:
 
 * a fully formatted article citation (in a designated [CSL citation style](https://github.com/citation-style-language/styles))
